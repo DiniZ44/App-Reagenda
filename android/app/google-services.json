@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116501562790",
+    "firebase_url": "https://reagenda-f4608.firebaseio.com",
+    "project_id": "reagenda-f4608",
+    "storage_bucket": "reagenda-f4608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116501562790:android:76fbbfd138574c06277b67",
+        "android_client_info": {
+          "package_name": "com.br.diniz.reagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116501562790-0bl81p8ch82a1l8k51nviujl7j3gfciq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqh-MZ6w0Y0lbdNkqEmcO0JwvAW9cuYIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116501562790-0bl81p8ch82a1l8k51nviujl7j3gfciq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
